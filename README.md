@@ -27,3 +27,13 @@ Vectorizer: CountVectorizer
 ## 🚀 How to Run
 ```bash
 python sentiment_analysis.py
+
+### 📥 Dataset
+
+Due to file size, the dataset is not included here.  
+👉 [Download Twitter_Data.csv from this Google Drive link](### 📥 Dataset
+
+Due to file size, the dataset is not included here.  
+👉 [Download Twitter_Data.csv from this Google Drive link](https://drive.google.com/file/d/1W3ZoZpeNy8lQ8y32f2UsPczm23VdV8If/view?usp=sharing)
+)
+
